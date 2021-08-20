@@ -1,6 +1,7 @@
 
 
 
+
 interface test
 {
 	void square();
@@ -21,9 +22,9 @@ public class ToTestInt
 {
 	public static void main(String[] args) {
 		System.out.println("This Program is Written by");
-		System.out.println("Pradhyumna H P, 4NI19IS061, B Section");
+		System.out.println("Shravan.V,4ni19is090,B-section");
 		System.out.println();
-		int a=10;
+		int a=5;
 		test t=new arithmatic(a);
 		t.square();
 	}
